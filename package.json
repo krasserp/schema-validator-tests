@@ -1,0 +1,14 @@
+{
+  "name": "validator-test",
+  "version": "0.0.1",
+  "description": "schema validator tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "pk",
+  "license": "ISC",
+  "dependencies": {
+    "jsonschema": "^1.2.4"
+  }
+}
